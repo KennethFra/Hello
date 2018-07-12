@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "06712804ebc91f0fc6044a6ec0203a4e"
+build_time: [1531383331, 919720000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/Array+Random.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/OSRandom.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/RandomProtocol.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Random/URandom.swift": [1531383304, 0]

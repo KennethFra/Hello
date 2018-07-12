@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "6fde4241cc8e42bd3fbdc9ad0ecaeb32"
+build_time: [1531383335, 546215000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/BCrypt/BCryptDigest.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/Digest.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/DigestAlgorithm.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/MAC/HMAC.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSA.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAKey.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAPadding.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/CryptoRandom.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/CryptoError.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Deprecated.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Exports.swift": [1531383304, 0]

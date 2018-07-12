@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "ab13a1eccf625d4aff1cf231f15c6880"
+build_time: [1531383320, 440217000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/COperatingSystem/libc.swift": [1531383304, 0]

@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "9d385a0128750e7429694797aba572f7"
+build_time: [1531383330, 206371000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Async+NIO.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/AsyncError.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Collection+Future.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Deprecated.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Exports.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+DoCatch.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Flatten.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Global.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Map.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Transform.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Variadic.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Void.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/FutureType.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/QueueHandler.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Async/Worker.swift": [1531383304, 0]

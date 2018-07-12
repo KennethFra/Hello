@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "f1306019ff031c9fbf065cb57d470ec9"
+build_time: [1531383342, 843096000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Base/CommandOption.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Base/CommandRunnable.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Command/Command.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Command/CommandArgument.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Config/CommandConfig.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Config/Commands.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Group/BasicCommandGroup.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Group/CommandGroup.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Run/CommandContext.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Run/CommandInput.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Run/Console+Run.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Run/Output+Autocomplete.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Run/Output+Help.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Utilities/CommandError.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Utilities/Exports.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Command/Utilities/Utilities.swift": [1531383304, 0]

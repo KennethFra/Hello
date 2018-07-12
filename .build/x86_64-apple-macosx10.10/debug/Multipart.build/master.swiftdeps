@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "899fd91e104d02c41f9ab1e7438a0c53"
+build_time: [1531383335, 96266000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Exports.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataDecoder.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataEncoder.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartError.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartParser.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPart.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPartConvertible.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartSerializer.swift": [1531383306, 0]

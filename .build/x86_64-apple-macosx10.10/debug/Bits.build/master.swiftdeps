@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "c6403b4dd7a3017a0e9962217af891c3"
+build_time: [1531383330, 205866000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/BitsError.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Alphabet.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Control.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Byte+Digit.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+peek.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+require.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/ByteBuffer+string.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Bytes.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Data+Bytes.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Data+Strings.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Bits/Deprecated.swift": [1531383304, 0]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "036d3dc0ab74ffce616ba7728ff58c06"
+build_time: [1531383334, 920987000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Logging/Exports.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Logging/LogLevel.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Logging/Logger.swift": [1531383304, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/console.git--2431895819212044213/Sources/Logging/PrintLogger.swift": [1531383304, 0]

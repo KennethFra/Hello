@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/master.swiftdeps"
+  },
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Debuggable.swift": {
+    "dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Debuggable.d",
+    "object": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Debuggable.swift.o",
+    "swiftmodule": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Debuggable~partial.swiftmodule",
+    "swift-dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Debuggable.swiftdeps"
+  },
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Demangler.swift": {
+    "dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Demangler.d",
+    "object": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Demangler.swift.o",
+    "swiftmodule": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Demangler~partial.swiftmodule",
+    "swift-dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/Demangler.swiftdeps"
+  },
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/SourceLocation.swift": {
+    "dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/SourceLocation.d",
+    "object": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/SourceLocation.swift.o",
+    "swiftmodule": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/SourceLocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/Debugging.build/SourceLocation.swiftdeps"
+  }
+}

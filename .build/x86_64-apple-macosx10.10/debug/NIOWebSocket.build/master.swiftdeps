@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "f21ede0f6604b4a441edd4d9ccbda48a"
+build_time: [1531383332, 663128000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/Base64.swift": [1531383305, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/SHA1.swift": [1531383305, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1531383305, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketFrame.swift": [1531383305, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1531383305, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1531383305, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketOpcode.swift": [1531383305, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1531383305, 0]

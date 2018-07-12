@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/work/Projects/Hello/.build/checkouts/core.git-9210800844849382486/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/work/Projects/Hello/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

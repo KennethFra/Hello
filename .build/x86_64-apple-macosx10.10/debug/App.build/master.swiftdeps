@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "52a37b28e19c8ed78b5a5c2c9a00483b"
+build_time: [1531383346, 979926000]
+inputs:
+  "/Users/work/Projects/Hello/Sources/App/Controllers/TodoController.swift": !dirty [1531300666, 0]
+  "/Users/work/Projects/Hello/Sources/App/Models/Todo.swift": !dirty [1531300666, 0]
+  "/Users/work/Projects/Hello/Sources/App/app.swift": !dirty [1531300666, 0]
+  "/Users/work/Projects/Hello/Sources/App/boot.swift": !dirty [1531300666, 0]
+  "/Users/work/Projects/Hello/Sources/App/configure.swift": !dirty [1531300666, 0]
+  "/Users/work/Projects/Hello/Sources/App/routes.swift": !dirty [1531300666, 0]

@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "806fadd3487e8dda56d850a83bcae272"
+build_time: [1531383331, 727602000]
+inputs:
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/IdentityVerification.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLCertificate.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLConnection.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLContext.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLErrors.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLInit.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1531383306, 0]
+  "/Users/work/Projects/Hello/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/TLSConfiguration.swift": [1531383306, 0]
